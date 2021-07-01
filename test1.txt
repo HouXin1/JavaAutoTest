@@ -1,3 +1,7 @@
 test1.txt
-It's master test file      
+
+It's master test file
+add New branch,is branch1.
+2222merge branch
+It's mergerdemo testfile.
 
